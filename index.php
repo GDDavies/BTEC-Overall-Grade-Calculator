@@ -51,6 +51,8 @@
 		</select>
         <input type="submit">
         </form>
+
+<br>
         
 <?php 
 $selection= $_POST['sector'];
