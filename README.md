@@ -1,4 +1,4 @@
-# BTECcopy
+# BTEC Overall Grade Calculator
 
 This is a web site to help learners easily understand their predicted or achieved overall BTEC (NQF) Level 2 grade. It will allow the user to select the relevant sector and qualification size they have studied. 
 
