@@ -2,7 +2,7 @@
 	{
 		height: 100%;
 	}
-	
+
 	body
 	{
 		margin: 0px;
@@ -31,6 +31,17 @@
         table-layout: fixed;
         text-align: left;
         margin-left: 20%;
+        border-collapse: collapse;
+    }
+
+    th {
+      background-color: lightgray;
+    }
+    
+    td, th {
+      border: 1px solid #999;
+      padding: 0.5rem;
+      text-align: left;
     }
 	
 	p, ol, ul
